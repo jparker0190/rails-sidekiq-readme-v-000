@@ -45,4 +45,3 @@ group :development do
   gem 'spring'
   gem 'sidekiq'
 end
-
